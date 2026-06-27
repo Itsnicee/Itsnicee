@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Nicolas 👋</h1>
-<h3 align="center">Desarrollador Full Stack</h3>
+<h3 align="center">Desarrollador</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=160&section=header&text=ZierowStudio&fontSize=60&fontAlignY=35&fontColor=ffffff" />
